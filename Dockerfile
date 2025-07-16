@@ -1,4 +1,4 @@
-FROM python:3.12.11-alpine3.22
+FROM registry.cn-hangzhou.aliyuncs.com/aliyun.com/python:3.12.11-alpine3.22
 
 # 设置工作目录
 WORKDIR /app
